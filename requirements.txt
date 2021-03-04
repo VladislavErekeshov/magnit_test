@@ -1,0 +1,25 @@
+Необходимые модули:
+
+1. openpyxl
+
+Установка:
+
+pip install openpyxl
+
+2. XlsxWriter
+
+Установка:
+
+pip install XlsxWriter
+
+3. PyFPDF
+
+Установка:
+
+pip install fpdf
+
+4. PDFMiner
+
+Установка:
+
+pip install pdfminer.six
